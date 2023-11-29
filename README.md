@@ -7,4 +7,4 @@ Terraform Source Code and Projects for Microsoft Azure
 - Best Practices
 
 Details to be updated
-
+1. AzureVM Deployment - Best Practices
